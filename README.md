@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0284c7?style=for-the-badge&labelColor=0f172a)](https://abubakkar-portfolio.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0284c7?style=for-the-badge&labelColor=0f172a)](https://abubakkar-portfolio-xi.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/abubakkar-dev)
   [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abubakkar.cce25.iiuc@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=AbuBakkarSiddique007&color=0284c7&style=for-the-badge&label=Profile+Views)](https://github.com/AbuBakkarSiddique007)
